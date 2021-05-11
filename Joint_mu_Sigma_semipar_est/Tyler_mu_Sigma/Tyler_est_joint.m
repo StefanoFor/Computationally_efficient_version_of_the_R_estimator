@@ -1,6 +1,4 @@
 function [C, mu, iter] = Tyler_est_joint(y, MAX_ITER)
-    
-% Esa Ollila, esollila@wooster.hut.fi 
 
 [N K] = size(y);
 
