@@ -15,7 +15,7 @@ while (iter<MAX_ITER)
     % Mean vector
     r_inv = s.^(-1/2);
     mu = sum(z0.*repmat(r_inv,1,N),1)/sum(r_inv);
-    % Scape matrix
+    % Shape matrix
     w = N./s;
     C = z.'*(conj(z).*repmat(w,1,N))/K;
     C=C/C(1,1);
