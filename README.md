@@ -3,8 +3,6 @@ This repository contains a computationally efficient (beta) version of the Matla
 
 # Author
 1) Stefano Fortunati (stefano.fortunati@centralesupelec.fr)
-2) Alexandre Renaux
-3) Frederic Pascal
 
 # Copyright
 Copyright (c) 2020 CentraleSupélec
